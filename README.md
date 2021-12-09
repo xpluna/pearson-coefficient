@@ -1,9 +1,8 @@
 # Karl Pearson's Coefficient
 https://wikipedia.org/wiki/Pearson_correlation_coefficient
+
 ## Based on Direct Method:
-<div style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
 <img style="center" src="https://latex.codecogs.com/svg.image?r&space;=&space;\frac{\mathrm{\sum}&space;dx.dy}{\mathrm{\sqrt{\sum&space;(dx)^2&space;-&space;\sum&space;(dy)^2}}&space;}" title="r = \frac{\mathrm{\sum} dx.dy}{\mathrm{\sqrt{\sum (dx)^2 - \sum (dy)^2}} }" />
-</div>
 
 ## Code
 ```js
